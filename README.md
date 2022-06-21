@@ -21,6 +21,8 @@
 
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[STAR BOY🇮🇳](https://t.me/ITZ_STAR_BOY)
+## CO-FOUNDER -[RAJESH OP🇮🇳](https://t.me/BALL_OF_FIRE)
+## FOUNDER -[YASH OP🇮🇳](https://t.me/)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
