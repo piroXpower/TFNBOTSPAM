@@ -22,10 +22,11 @@
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[STAR BOY🇮🇳](https://t.me/ITZ_STAR_BOY)
 ## CO-FOUNDER -[RAJESH OP🇮🇳](https://t.me/BALL_OF_FIRE)
-## FOUNDER -[YASH OP🇮🇳](https://t.me/)
+## FOUNDER -[YASH OP🇮🇳](https://t.me/Yash_xdd)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MAHADEV-TORNADO/TFNSPAMBOT.git)
 ------------------------------------------------
 
+CREDITS GOES TO MAHADEV-TORNADO-SPAM-BOT
