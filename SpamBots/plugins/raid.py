@@ -114,7 +114,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "Activated Reply Raid"
+            text = "ᴛᴇʀᴇ ᴍᴀ ᴋɪ ᴄʜᴜᴛ ᴄʜᴏᴅᴇɢᴀ ᴀʙʜ ᴛғɴ ᴏᴘ "
             await e.reply(text, parse_mode=None, link_preview=None)
         elif e.reply_to_msg_id:
             a = await e.get_reply_message()
@@ -124,7 +124,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "Activated Reply Raid"
+            text = "ᴛᴇʀᴇ ᴍᴀ ᴋɪ ᴄʜᴜᴛ ᴄʜᴏᴅᴇɢᴀ ᴀʙʜ ᴛғɴ ᴏᴘ "
             await e.reply(text, parse_mode=None, link_preview=None)
         else:
             await e.reply(usage, parse_mode=None, link_preview=None)
@@ -155,7 +155,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "De-Activated Reply Raid"
+            text = "ᴀɢᴀʏᴀ ʙᴇᴛᴀ sᴡᴀᴅ ᴀʙʜ ᴋᴀʙʜɪ ᴀᴘɴᴇ ᴘᴀᴘᴀ ᴋᴏ ᴜɴɢʟɪ ᴍᴀᴛ ᴋʀɴᴀ sᴀᴍᴊʜᴀ ᴛғɴ ɪs ʏᴏᴜ ᴅᴀᴅ"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -166,7 +166,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "De-Activated Reply Raid"
+            text = "ᴀɢᴀʏᴀ ʙᴇᴛᴀ sᴡᴀᴅ ᴀʙʜ ᴋᴀʙʜɪ ᴀᴘɴᴇ ᴘᴀᴘᴀ ᴋᴏ ᴜɴɢʟɪ ᴍᴀᴛ ᴋʀɴᴀ sᴀᴍᴊʜᴀ ᴛғɴ ɪs ʏᴏᴜ ᴅᴀᴅ"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
