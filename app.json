@@ -1,7 +1,7 @@
 {
-    "name": "MAHADEV TORNADO SPAM BOT ",
+    "name": "TFN BOT SPAM ",
     "description": "Best Spamming Bots",
-    "logo": "https://telegra.ph/file/08993e43067a6451c450f.jpg",
+    "logo": "https://telegra.ph/file/15b9db3a5db32d0f4e7d1.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,17 +9,17 @@
         "Ustad-op",
         "SpamBots"
     ],
-    "repository": "https://github.com/MAHADEV-TORNADO/MAHADEV-TORNADO-SPAM-BOT",
-    "website": "https://t.me/MAHADEV_TORNADO_SPAM_BOT",
-    "success_url": "https://t.me/MAHADEV_TORNADO_NETWORK",
+    "repository": "https://github.com/ITZRAJOP/TFNBOTSPAM",
+    "website": "https://t.me/TFN_CHAT",
+    "success_url": "https://t.me/FURIOUS_EMPIRE",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
-            "value": ""
+            "value": "c96cb303a216a43236d007ba9fdf60ab"
         },
         "APP_ID": {
             "description": "You API ID from my.telegram.org",
-            "value": ""
+            "value": "13575597"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
@@ -72,7 +72,7 @@
         },
         "SUDO_USERS": {
             "description": "Owner Id",
-            "value": ""
+            "value": "5274117736"
             
         },
         "HEROKU_API_KEY": {
