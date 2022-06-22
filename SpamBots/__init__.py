@@ -339,7 +339,7 @@ RRAID = [
     "CHAMAR",
     "RANDI",
     "KE",
-    "BETE,
+    "BETE",
     "RANDI KE PILLE",
     "TERIIIII MAAA KO BHEJJJ",
     "TERAA BAAAAP HU",
